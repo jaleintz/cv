@@ -1,0 +1,14 @@
+CSS Quick Notes
+
+/*
+Selector { property : value; }
+id="x"  - Can only have one id per page
+Class="x" - Can have as many as you want. 
+Can have multiple per tag
+Class=classNameOne classNameTwo
+ID and Class are more specific than tag selector
+Class in css is .classname
+ID in css is #idname
+Pseudo-Class has colon in front and can change with state
+img:hover is a pseudo class
+*/
