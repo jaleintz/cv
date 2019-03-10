@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+/*
+Note - Body has an 8px default margin
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+margin: 0px 10px 20px 30px;
+*/
+h1 {
+  /*
+  Note - h1 also has a default margin
+*/
+  margin-top: 0px;
+}
+
+div {
+  background-color: #ddfee4;
+}
+
+.top-container {
+  background-color: #ddfee4;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  border: solid 10px;
+}
+
+.middle-container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: solid 20px;
+  border-color: black;
+  margin-left: 260px;
+}
+
+.bottom-container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border: solid 10px;
+  margin-left: 500px;
+}
