@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+}
+.container {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  background-color: grey;
+  top: 20px;
+  left: 20px;
+}
+
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.green {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  }
+
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  left: 600px;
+}
+
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+  top: 0px;
+  right: 20px;
+}
+
+.gold {
+  height: 100px;
+  width: 100px;
+  background-color: gold;
+  position: fixed;
+  top: 0px;
+  left: 10px;
+
+}
